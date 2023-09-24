@@ -1,4 +1,4 @@
-# FinTracker - Expense Tracker App
+# MoneyMatters - Expense Tracker App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,11 +7,6 @@ FinTracker is a Flutter application that helps you track your expenses and manag
 ![FinTracker Screenshot](screenshots/fintracker_screenshot.jpg)
 
 
-## Download
-
-You can download FinTracker from the Google Play Store:
-
-[![Google Play Store](https://img.shields.io/badge/Download-Play%20Store-brightgreen.svg)](https://play.google.com/store/apps/details?id=me.nafish.fintracker)
 
 ## Features
 
@@ -22,31 +17,7 @@ You can download FinTracker from the Google Play Store:
 - Easily search and filter your expenses.
 - Export expense data for further analysis.
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/nafishahmeddev/fintracker.git
-```
-
-2. Change to the project directory:
-
-```bash
-cd fintracker
-```
-
-3. Install dependencies:
-
-```bash
-flutter pub get
-```
-
-4. Run the app:
-
-```bash
-flutter run
-```
 
 ## Usage
 
