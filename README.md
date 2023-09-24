@@ -42,6 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The design and inspiration for this app came from various expense tracker apps available in the market.
 - Special thanks to the open-source community for their valuable contributions.
 
-## Contact
 
-For any questions or inquiries, please email us at [hello@nafish.me](mailto:hello@nafish.me).
